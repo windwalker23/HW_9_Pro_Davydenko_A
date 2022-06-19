@@ -16,6 +16,7 @@ html svg, html img, body svg, body img {
   background: #55aa55;
   border-radius: 6px;
   padding: 10px;
+  margin: 0 auto;
 }
 
 .card {
