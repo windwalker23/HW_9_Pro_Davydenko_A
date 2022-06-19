@@ -4,7 +4,7 @@ cardSuit = [`images/clubs.svg`, `images/spades.svg`, `images/diamonds.svg`, `ima
 cardPerson = [`images/jack.svg`, `images/queen.svg`, `images/king.svg`];
 variable = "";
 
-for(i=0, j = 0, k = -1; i < deck.length; i++) {
+for(i = 0, j = 0, k = -1; i < deck.length; i++) {
     if(i > 0 && i % 4 === 0){
         j++;
         k = 0;
